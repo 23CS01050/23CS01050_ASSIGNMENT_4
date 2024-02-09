@@ -19,7 +19,7 @@ int main()
    else printf("Maximum Value is %d\n",c);
    }
    
-   else printf("fuck off");
+   else printf("");
   
 
    return 0;
